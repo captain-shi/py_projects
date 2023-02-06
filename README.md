@@ -1,2 +1,2 @@
 # py_projects
- Exercises
+ Python Exercises solved
